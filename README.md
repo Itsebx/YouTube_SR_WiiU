@@ -5,7 +5,7 @@ Modernized YouTube app for Wii U
 A simple modification of the original YouTube app for Wii U with the assets and some current resources, giving it a modern aesthetic of what the application is currently, changes include banners, logos, boot sound, etc.
 
 ## Installation
-Unzip the file present in releases, this will contain the app folder with the game in WUP format, use the WUP installer of your choice to install the app.
+Unzip the file present in [Releases](https://github.com/Itsebx/YouTube_SR_WiiU/releases), this will contain the app folder with the game in WUP format, use the WUP installer of your choice to install the app.
 ### Recommendation when installing
 It is recommended to delete the original YouTube application before installing this version. Once installed, it is also recommended to restart the console to update the caches, although if it is not done, there should not be any problem anyway. 
 
