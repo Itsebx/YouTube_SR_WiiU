@@ -9,7 +9,7 @@ Unzip the file present in releases, this will contain the app folder with the ga
 ### Recommendation when installing
 It is recommended to delete the original YouTube application before installing this version. Once installed, it is also recommended to restart the console to update the caches, although if it is not done, there should not be any problem anyway. 
 
-GiveMiiYouTube saves your session, so even if you delete the original app and install the modification, when you enter you should still have your session logged in.
+Delete the app but not the users' saved data, so you will not lose your session and you will not have to enter your login data again.
 
 ## Known bugs
 At some point the gamepad may show the old YouTube logo for a few seconds, this is a known problem, I have not yet found what causes it but I will continue investigating.
