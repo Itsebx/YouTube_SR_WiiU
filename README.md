@@ -15,4 +15,4 @@ Swip Swap Me saves your session, so even if you delete the original app and inst
 At some point the gamepad may show the old YouTube logo for a few seconds, this is a known problem, I have not yet found what causes it but I will continue investigating.
 
 ## Notes
-This app still requires the use of the Aroma Swip Swap Me Plugin, so even though it can be installed in CFW Legacy, it will simply give the typical connection error that the original presents.
+This app still requires the use of the Aroma GiveMeYouTube Plugin, so even though it can be installed in CFW Legacy, it will simply give the typical connection error that the original presents.
