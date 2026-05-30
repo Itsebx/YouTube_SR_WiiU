@@ -15,4 +15,4 @@ Delete the app but not the users' saved data, so you will not lose your session 
 At some point the gamepad may show the old YouTube logo for a few seconds, this is a known problem, I have not yet found what causes it but I will continue investigating.
 
 ## Notes
-This app still requires the use of the Aroma GiveMiiYouTube Plugin, so even though it can be installed in CFW Legacy, it will simply give the typical connection error that the original presents.
+This app still requires the use of the Aroma [GiveMiiYouTube](https://github.com/PretendoNetwork/GiveMiiYouTube) Plugin, so even though it can be installed in CFW Legacy, it will simply give the typical connection error that the original presents.
